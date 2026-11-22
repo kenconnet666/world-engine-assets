@@ -19,3 +19,8 @@
 2. 在主仓库里 `node tools/assets.ts build`：导入新加的、源文件变了的（已有的跳过）。
 3. 提交推送这个仓库，再在主仓库里 `node tools/assets.ts dev`（发 `dev-<提交>` 的预发行版、主仓库的 override 指过去、`pnpm install`），
    或者 `node tools/assets.ts release <版本>`（先改这里 package.json 的版本）发正式版。
+
+## 许可证
+
+仓库自己的文件（登记表、工程文件、说明）是 Apache-2.0，见 [LICENSE](LICENSE)。各项资源（字体、扫描材质）按它们各自的许可证，
+来源、作者和许可证全文见 [CREDITS.md](CREDITS.md) 和 `licenses/`；包里的资源同样以它们为准。
