@@ -1,0 +1,7 @@
+{
+ "source": "jpeg",
+ "compress": "uastc",
+ "mipmaps": true,
+ "maxSize": 2048,
+ "srgb": true
+}

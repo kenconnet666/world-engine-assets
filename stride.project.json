@@ -1,0 +1,6 @@
+{
+ "format": 1,
+ "name": "stride-ts-assets",
+ "content": "content",
+ "assetTypes": "node_modules/.cache/assets.gen.ts"
+}

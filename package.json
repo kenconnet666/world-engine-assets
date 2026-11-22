@@ -1,0 +1,12 @@
+{
+ "name": "@stride-ts/assets",
+ "version": "0.1.0",
+ "description": "Shared content for stride-ts projects: fonts, scanned materials and other binary assets, converted to engine-ready files (font glyph blocks, KTX2 textures). Every asset records its source and license in CREDITS.md.",
+ "license": "SEE LICENSE IN CREDITS.md",
+ "type": "module",
+ "files": ["content", "licenses", "CREDITS.md"],
+ "stride": {
+  "content": "content/Shared"
+ },
+ "repository": { "type": "git", "url": "git+https://github.com/kenconnet666/stride-ts-assets.git" }
+}

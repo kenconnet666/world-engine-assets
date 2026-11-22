@@ -1,0 +1,60 @@
+{
+ "name": "Tiles141",
+ "baseColor": [
+  1,
+  1,
+  1,
+  1
+ ],
+ "baseColorTexture": {
+  "texture": "Shared/Materials/Tiles141/Tiles141_baseColor",
+  "scale": [
+   1,
+   1
+  ],
+  "offset": [
+   0,
+   0
+  ],
+  "filter": "anisotropic",
+  "srgb": true
+ },
+ "metalness": 0,
+ "roughness": 1,
+ "glossinessTexture": {
+  "texture": "Shared/Materials/Tiles141/Tiles141_roughness",
+  "scale": [
+   1,
+   1
+  ],
+  "offset": [
+   0,
+   0
+  ],
+  "filter": "anisotropic",
+  "srgb": false,
+  "channel": "r",
+  "invert": true
+ },
+ "normalMap": {
+  "texture": "Shared/Materials/Tiles141/Tiles141_normalGl",
+  "scale": [
+   1,
+   1
+  ],
+  "offset": [
+   0,
+   0
+  ],
+  "filter": "anisotropic",
+  "srgb": false,
+  "scaleAndBias": true,
+  "isXYNormal": false,
+  "invertY": false
+ },
+ "credit": {
+  "source": "https://ambientcg.com/view?id=Tiles141",
+  "license": "CC0 1.0",
+  "author": "ambientCG (Lennart Demes)"
+ }
+}
