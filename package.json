@@ -8,5 +8,5 @@
  "stride": {
   "content": "content/Shared"
  },
- "repository": { "type": "git", "url": "git+https://github.com/kenconnet666/stride-ts-assets.git" }
+ "repository": { "type": "git", "url": "git+https://github.com/kenconnet666/world-engine-assets.git" }
 }

@@ -1,8 +1,9 @@
-# stride-ts-assets
+# world-engine-assets
 
-[stride-ts](https://github.com/kenconnet666/stride-ts) 共用的二进制资源：字体、扫描的材质这类不适合放进主仓库 git 的东西。发成 GitHub Release 的
-npm 包 `@stride-ts/assets`，主仓库的样例当依赖装上；开发服务器、编辑器打开工程时把包里的 `content/Shared` 同步到工程内容目录的
-`Shared/` 下面（那个文件夹不进主仓库的 git），场景、材质照常按 `Shared/...` 的路径引用。
+[World Engine](https://github.com/kenconnet666/world-engine) 共用的二进制资源：字体、扫描的材质这类不适合放进主仓库 git 的东西，每一项都记着来源、作者和许可。
+
+发成 GitHub Release 的 npm 包 `@stride-ts/assets`（包名沿用改名前的），主仓库的样例当依赖装上；开发服务器、编辑器打开工程时把包里的 `content/Shared`
+同步到工程内容目录的 `Shared/` 下面（那个文件夹不进主仓库的 git），场景、材质照常按 `Shared/...` 的路径引用。
 
 ## 目录
 
