@@ -50,7 +50,10 @@
   "srgb": false,
   "scaleAndBias": true,
   "isXYNormal": false,
-  "invertY": false
+  "invertY": false,
+  "parallax": {
+   "depth": 0.004
+  }
  },
  "credit": {
   "source": "https://ambientcg.com/view?id=Tiles141",

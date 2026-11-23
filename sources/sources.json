@@ -4,15 +4,29 @@
    "file": "fonts/ZCOOLQingKeHuangYou-Regular.ttf",
    "folder": "Shared/Fonts",
    "name": "ZCOOLQingKeHuangYou",
-   "credit": { "source": "https://github.com/google/fonts/tree/main/ofl/zcoolqingkehuangyou", "license": "OFL-1.1", "author": "Zhang Wei Jie (站酷庆科黄油体)" }
+   "credit": {
+    "source": "https://github.com/google/fonts/tree/main/ofl/zcoolqingkehuangyou",
+    "license": "OFL-1.1",
+    "author": "Zhang Wei Jie (站酷庆科黄油体)"
+   }
   }
  ],
  "materials": [
   {
    "folder": "Shared/Materials",
    "name": "Tiles141",
-   "files": ["materials/Tiles141/Tiles141_1K-JPG_Color.jpg", "materials/Tiles141/Tiles141_1K-JPG_NormalGL.jpg", "materials/Tiles141/Tiles141_1K-JPG_Roughness.jpg"],
-   "credit": { "source": "https://ambientcg.com/view?id=Tiles141", "license": "CC0 1.0", "author": "ambientCG (Lennart Demes)" }
+   "files": [
+    "materials/Tiles141/Tiles141_1K-JPG_Color.jpg",
+    "materials/Tiles141/Tiles141_1K-JPG_NormalGL.jpg",
+    "materials/Tiles141/Tiles141_1K-JPG_Roughness.jpg",
+    "materials/Tiles141/Tiles141_1K-JPG_Displacement.jpg"
+   ],
+   "credit": {
+    "source": "https://ambientcg.com/view?id=Tiles141",
+    "license": "CC0 1.0",
+    "author": "ambientCG (Lennart Demes)"
+   },
+   "parallaxDepth": 0.004
   }
  ]
 }

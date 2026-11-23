@@ -3,5 +3,6 @@
  "compress": "uastc",
  "mipmaps": true,
  "maxSize": 2048,
- "srgb": false
+ "srgb": false,
+ "alpha": "Shared/Materials/Tiles141/Tiles141_height"
 }
