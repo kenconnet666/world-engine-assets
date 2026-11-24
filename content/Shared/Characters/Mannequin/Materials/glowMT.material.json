@@ -1,0 +1,16 @@
+{
+ "name": "glowMT",
+ "baseColor": [
+  0.572533,
+  0.572533,
+  0.572533,
+  1
+ ],
+ "metalness": 1,
+ "roughness": 0,
+ "emissive": [
+  0.6083,
+  1.5422,
+  2
+ ]
+}

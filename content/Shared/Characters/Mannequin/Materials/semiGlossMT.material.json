@@ -1,0 +1,11 @@
+{
+ "name": "semiGlossMT",
+ "baseColor": [
+  0.304987,
+  0.304987,
+  0.304987,
+  1
+ ],
+ "metalness": 0.5,
+ "roughness": 0.3
+}

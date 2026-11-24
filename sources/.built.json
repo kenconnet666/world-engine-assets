@@ -1,4 +1,8 @@
 {
  "font:Shared/Fonts/ZCOOLQingKeHuangYou": "1eecc10c3980852d5f23e3b92aed55081e8e887c3714707b1981ade300643369",
- "material:Shared/Materials/Tiles141": "5e764dfa9eb0e3c05780fc4ff0a5a7814116319e54fbdfdbd64b9c51e05d98c8"
+ "material:Shared/Materials/Tiles141": "5e764dfa9eb0e3c05780fc4ff0a5a7814116319e54fbdfdbd64b9c51e05d98c8",
+ "model:Shared/Characters/Mannequin": "4041cd75cde9903d3fe6008e191efdd12fc57b7dbb0fd3a2f83f1a523dad6198",
+ "model:Shared/Characters/MannequinAnimations/Idle": "7a614f2a98977936e6b130f149b861a8b9553553a6dcb8a1673cbc65db7dda96",
+ "model:Shared/Characters/MannequinAnimations/Walk": "2816eb7ee61953ad439d998f3a5013cba6ec30d1ed046c7a99a2e4d32b824c7f",
+ "model:Shared/Characters/MannequinAnimations/Run": "55d3932b261f74ab51e0e65394ec1af627097ee8d5dac2e05d7fd66a1768c0df"
 }

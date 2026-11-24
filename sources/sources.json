@@ -28,5 +28,96 @@
    },
    "parallaxDepth": 0.004
   }
+ ],
+ "models": [
+  {
+   "file": "models/mannequin/mannequinModel.fbx",
+   "folder": "Shared/Characters",
+   "name": "Mannequin",
+   "settings": {
+    "animations": false
+   },
+   "materials": {
+    "glossMT": {
+     "baseColor": [
+      0.680656,
+      0.680656,
+      0.680656,
+      1
+     ],
+     "metalness": 0.326415,
+     "roughness": 0.1
+    },
+    "semiGlossMT": {
+     "baseColor": [
+      0.304987,
+      0.304987,
+      0.304987,
+      1
+     ],
+     "metalness": 0.5,
+     "roughness": 0.3
+    },
+    "glowMT": {
+     "baseColor": [
+      0.572533,
+      0.572533,
+      0.572533,
+      1
+     ],
+     "metalness": 1,
+     "roughness": 0,
+     "emissive": [
+      0.6083,
+      1.5422,
+      2
+     ]
+    },
+    "upperMatteMT": {
+     "baseColor": [
+      0.012983,
+      0.012983,
+      0.012983,
+      1
+     ],
+     "metalness": 0.386792,
+     "roughness": 0.5
+    },
+    "lowerMatteMT": {
+     "baseColor": [
+      0.012983,
+      0.012983,
+      0.012983,
+      1
+     ],
+     "metalness": 0.386792,
+     "roughness": 0.5
+    }
+   }
+  },
+  {
+   "file": "models/mannequin/Idle.fbx",
+   "folder": "Shared/Characters/MannequinAnimations",
+   "name": "Idle",
+   "settings": {
+    "meshes": false
+   }
+  },
+  {
+   "file": "models/mannequin/Walk.fbx",
+   "folder": "Shared/Characters/MannequinAnimations",
+   "name": "Walk",
+   "settings": {
+    "meshes": false
+   }
+  },
+  {
+   "file": "models/mannequin/Run.fbx",
+   "folder": "Shared/Characters/MannequinAnimations",
+   "name": "Run",
+   "settings": {
+    "meshes": false
+   }
+  }
  ]
 }
